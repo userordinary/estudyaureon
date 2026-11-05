@@ -1,0 +1,302 @@
+@import 'tailwindcss';
+@config '../tailwind.config.ts';
+
+/*
+ * Sistema de tokens CSS de AUREON (4 temas con contraste WCAG AA >= 4.5:1).
+ * Aplicados vía [data-theme="..."] en <html> (por defecto: dark-modern).
+ */
+
+:root,
+html[data-theme='dark-modern'] {
+  --bg: #0b1120;
+  --surface: #111827;
+  --surface-2: #1e293b;
+  --border: #283548;
+  --text: #f1f5f9;
+  --text-muted: #94a3b8;
+  --accent: #22d3ee;
+  --accent-2: #e879f9;
+  --success: #34d399;
+  --warn: #fbbf24;
+  --danger: #fb7185;
+  --focus: #a78bfa;
+  --rest: #22d3ee;
+  --gold-1: #fff3b0;
+  --gold-2: #f5c542;
+  --gold-3: #c8941a;
+  --gold-4: #f7d774;
+  --gold-glow: rgba(245, 197, 66, 0.35);
+  --chart-1: #22d3ee;
+  --chart-2: #e879f9;
+  --chart-3: #a78bfa;
+  --chart-4: #34d399;
+  --chart-5: #fbbf24;
+  --chart-6: #fb7185;
+}
+
+html[data-theme='gamificado'] {
+  --bg: #0f172a;
+  --surface: #1e293b;
+  --surface-2: #334155;
+  --border: #475569;
+  --text: #f8fafc;
+  --text-muted: #cbd5e1;
+  --accent: #38bdf8;
+  --accent-2: #f472b6;
+  --success: #4ade80;
+  --warn: #facc15;
+  --danger: #fda4af;
+  --focus: #818cf8;
+  --rest: #2dd4bf;
+  --gold-1: #fff3b0;
+  --gold-2: #f5c542;
+  --gold-3: #c8941a;
+  --gold-4: #f7d774;
+  --gold-glow: rgba(245, 197, 66, 0.45);
+  --chart-1: #38bdf8;
+  --chart-2: #f472b6;
+  --chart-3: #4ade80;
+  --chart-4: #facc15;
+  --chart-5: #a78bfa;
+  --chart-6: #fb7185;
+}
+
+html[data-theme='oled'] {
+  --bg: #000000;
+  --surface: #18181b;
+  --surface-2: #27272a;
+  --border: #3f3f46;
+  --text: #f4f4f5;
+  --text-muted: #b4b4bb;
+  --accent: #e4e4e7;
+  --accent-2: #a1a1aa;
+  --success: #d4d4d8;
+  --warn: #bdbdc2;
+  --danger: #e4e4e7;
+  --focus: #e4e4e7;
+  --rest: #a1a1aa;
+  --gold-1: #f4f3ef;
+  --gold-2: #d6d3cb;
+  --gold-3: #a8a49c;
+  --gold-4: #e5e2dc;
+  --gold-glow: rgba(0, 0, 0, 0);
+  --chart-1: #fafafa;
+  --chart-2: #d4d4d8;
+  --chart-3: #a1a1aa;
+  --chart-4: #71717a;
+  --chart-5: #e4e4e7;
+  --chart-6: #b4b4bb;
+}
+
+html[data-theme='clinico'] {
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --surface-2: #f1f5f9;
+  --border: #cbd5e1;
+  --text: #0f172a;
+  --text-muted: #475569;
+  --accent: #0369a1;
+  --accent-2: #334155;
+  --success: #047857;
+  --warn: #92400e;
+  --danger: #b91c1c;
+  --focus: #0369a1;
+  --rest: #047857;
+  --gold-1: #92400e;
+  --gold-2: #78350f;
+  --gold-3: #451a03;
+  --gold-4: #b45309;
+  --gold-glow: rgba(180, 83, 9, 0.14);
+  --chart-1: #0369a1;
+  --chart-2: #047857;
+  --chart-3: #334155;
+  --chart-4: #b45309;
+  --chart-5: #b91c1c;
+  --chart-6: #4338ca;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease;
+}
+
+/* Efecto RGB Arcoíris continuo para tema personalizado */
+@keyframes aureon-rainbow-flow {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
+
+html[data-rainbow='true'] .border-accent,
+html[data-rainbow='true'] .text-accent,
+html[data-rainbow='true'] [data-rainbow-target='true'] {
+  animation: aureon-rainbow-flow 7s linear infinite;
+}
+
+/* Efecto Cristal / Glassmorphism cuando la transparencia es menor a 1 */
+html[data-glass='true'] .bg-surface,
+html[data-glass='true'] .bg-surface-2 {
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+/*
+ * Clases utilitarias para las 2 únicas animaciones de gradiente/brillo permitidas:
+ * 1) Barra de progreso >= 85 % en el perfil "gamificado"
+ * 2) Contador dorado (GoldCounter) con gradiente metálico vertical y destello de ~1.2 s
+ */
+.aureon-progress-rgb {
+  background-image: linear-gradient(
+    90deg,
+    var(--accent),
+    var(--accent-2),
+    var(--success),
+    var(--warn),
+    var(--accent)
+  );
+  background-size: 200% 100%;
+}
+
+.aureon-gold-text {
+  background-image: linear-gradient(
+    180deg,
+    var(--gold-1) 0%,
+    var(--gold-2) 45%,
+    var(--gold-3) 78%,
+    var(--gold-4) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 10px var(--gold-glow);
+}
+
+.aureon-gold-sweep {
+  background-image: linear-gradient(
+    110deg,
+    var(--gold-2) 0%,
+    var(--gold-3) 35%,
+    var(--gold-1) 50%,
+    var(--gold-3) 65%,
+    var(--gold-4) 100%
+  );
+  background-size: 240% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-gradient-x,
+  .animate-gold-sweep {
+    animation: none !important;
+  }
+}
+
+/*
+ * Hoja de estilos de impresión A4 para "Temas a reforzar" (PROMPT 9):
+ * Fuerza tema claro en blanco y negro incluso con el tema oscuro activo,
+ * ocultando menús, cabeceras, botones y controles interactivos.
+ */
+@page {
+  size: A4 portrait;
+  margin: 12mm;
+}
+
+/* Barras de carga en tema OLED Puro: Rojo Intenso Corazón (#ff1744) */
+html[data-theme='oled'] [data-testid='progress-bar-fill'],
+html[data-theme='oled'] [role='progressbar'] > [data-testid='progress-bar-fill'],
+html[data-theme='oled'] [role='progressbar'] > .h-full {
+  background-color: #ff1744 !important;
+  box-shadow: 0 0 10px rgba(255, 23, 68, 0.45);
+}
+
+html[data-theme='oled'] [data-testid='ring-progress-indicator'] {
+  stroke: #ff1744 !important;
+  filter: drop-shadow(0 0 8px rgba(255, 23, 68, 0.55));
+}
+
+/* Ajustes de Accesibilidad: Tamaño de Texto y Alto Contraste */
+html[data-text-size='grande'] {
+  font-size: 17.5px;
+}
+
+html[data-text-size='extra'] {
+  font-size: 19px;
+}
+
+html[data-high-contrast='true'] {
+  --border: #38bdf8 !important;
+}
+
+html[data-high-contrast='true'][data-theme='oled'] {
+  --border: #ff1744 !important;
+}
+
+html[data-high-contrast='true'][data-theme='clinico'] {
+  --border: #0284c7 !important;
+}
+
+html[data-high-contrast='true'] button,
+html[data-high-contrast='true'] input,
+html[data-high-contrast='true'] select {
+  outline: 2px solid var(--border) !important;
+}
+
+@media print {
+  :root,
+  html,
+  html[data-theme='dark-modern'],
+  html[data-theme='gamificado'],
+  html[data-theme='oled'],
+  html[data-theme='clinico'],
+  html[data-theme='personalizado'],
+  body {
+    --bg: #ffffff !important;
+    --surface: #ffffff !important;
+    --surface-2: #ffffff !important;
+    --border: #000000 !important;
+    --text: #000000 !important;
+    --text-muted: #1f2937 !important;
+    --accent: #000000 !important;
+    --accent-2: #000000 !important;
+    background: #ffffff !important;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    color-scheme: light !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  header,
+  nav,
+  button,
+  [data-testid='app-header'],
+  [data-testid='fab-registro-rapido'],
+  .no-print {
+    display: none !important;
+  }
+
+  .print-temas-reforzar {
+    display: block !important;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border-color: #000000 !important;
+    box-shadow: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .print-temas-reforzar * {
+    color: #000000 !important;
+    background-color: transparent !important;
+    border-color: #000000 !important;
+  }
+}

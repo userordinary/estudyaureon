@@ -1,0 +1,1829 @@
+[
+  {
+    "id": "hv-s01-tipologia-textual-i",
+    "cursoId": "hv",
+    "semana": 1,
+    "titulo": "Tipología textual I: textos con gráfico",
+    "verificado": true
+  },
+  {
+    "id": "hv-s02-tipologia-textual-ii",
+    "cursoId": "hv",
+    "semana": 2,
+    "titulo": "Tipología textual II: textos dialécticos",
+    "verificado": true
+  },
+  {
+    "id": "hv-s03-tipologia-textual-iii",
+    "cursoId": "hv",
+    "semana": 3,
+    "titulo": "Tipología textual III: textos en inglés",
+    "verificado": true
+  },
+  {
+    "id": "hv-s04-tema-central-idea-principal",
+    "cursoId": "hv",
+    "semana": 4,
+    "titulo": "Tema central e idea principal",
+    "verificado": true
+  },
+  {
+    "id": "hv-s05-cohesion-coherencia",
+    "cursoId": "hv",
+    "semana": 5,
+    "titulo": "Cohesión y coherencia textual",
+    "verificado": true
+  },
+  {
+    "id": "hv-s06-sintesis-informacion",
+    "cursoId": "hv",
+    "semana": 6,
+    "titulo": "Síntesis: selección, generalización y abstracción",
+    "verificado": true
+  },
+  {
+    "id": "hv-s07-sinonimia-antonimia-contextual",
+    "cursoId": "hv",
+    "semana": 7,
+    "titulo": "Relaciones semántico-textuales: sinonimia y antonimia",
+    "verificado": true
+  },
+  {
+    "id": "hv-s08-denotacion-connotacion",
+    "cursoId": "hv",
+    "semana": 8,
+    "titulo": "Relaciones semántico-textuales: denotación y connotación",
+    "verificado": true
+  },
+  {
+    "id": "hv-s09-compatibilidad-incompatibilidad-literal",
+    "cursoId": "hv",
+    "semana": 9,
+    "titulo": "Compatibilidad e incompatibilidad literal",
+    "verificado": true
+  },
+  {
+    "id": "hv-s10-compatibilidad-incompatibilidad-inferencial",
+    "cursoId": "hv",
+    "semana": 10,
+    "titulo": "Compatibilidad e incompatibilidad inferencial",
+    "verificado": true
+  },
+  {
+    "id": "hv-s11-argumentacion-falacias",
+    "cursoId": "hv",
+    "semana": 11,
+    "titulo": "Argumentación, contrargumentación y falacias",
+    "verificado": true
+  },
+  {
+    "id": "hv-s12-inferencia-holistica-datos",
+    "cursoId": "hv",
+    "semana": 12,
+    "titulo": "Inferencia holística e inferencia de datos",
+    "verificado": true
+  },
+  {
+    "id": "hv-s13-inferencia-causalidad-consecuencia",
+    "cursoId": "hv",
+    "semana": 13,
+    "titulo": "Inferencia de causalidad y de consecuencia",
+    "verificado": true
+  },
+  {
+    "id": "hv-s14-texto-contexto-tono",
+    "cursoId": "hv",
+    "semana": 14,
+    "titulo": "Texto y contexto: tono del texto e intención comunicativa",
+    "verificado": true
+  },
+  {
+    "id": "hv-s15-extrapolacion-cognitiva-referencial",
+    "cursoId": "hv",
+    "semana": 15,
+    "titulo": "Extrapolación cognitiva y referencial (repaso)",
+    "verificado": true
+  },
+  {
+    "id": "hm-s01-deductivo-simple",
+    "cursoId": "hm",
+    "semana": 1,
+    "titulo": "Deductivo simple y trazos de figuras I",
+    "verificado": true
+  },
+  {
+    "id": "hm-s02-deductivo-compuesto",
+    "cursoId": "hm",
+    "semana": 2,
+    "titulo": "Deductivo compuesto y trazos de figuras II",
+    "verificado": true
+  },
+  {
+    "id": "hm-s03-ordenamiento-informacion",
+    "cursoId": "hm",
+    "semana": 3,
+    "titulo": "Ordenamiento de la información y perímetros",
+    "verificado": true
+  },
+  {
+    "id": "hm-s04-metodo-suposicion",
+    "cursoId": "hm",
+    "semana": 4,
+    "titulo": "Método de suposición (verdades/mentiras) y puntos cardinales",
+    "verificado": true
+  },
+  {
+    "id": "hm-s05-traslados-elementos-recreativos",
+    "cursoId": "hm",
+    "semana": 5,
+    "titulo": "Traslados y elementos recreativos (dados, dominó, cerillos)",
+    "verificado": true
+  },
+  {
+    "id": "hm-s06-arreglos-numericos",
+    "cursoId": "hm",
+    "semana": 6,
+    "titulo": "Arreglos numéricos y cuadrados mágicos",
+    "verificado": true
+  },
+  {
+    "id": "hm-s07-inductivo-simple",
+    "cursoId": "hm",
+    "semana": 7,
+    "titulo": "Inductivo simple e inductivo geométrico",
+    "verificado": true
+  },
+  {
+    "id": "hm-s08-frecuencia-sucesos-cronometria",
+    "cursoId": "hm",
+    "semana": 8,
+    "titulo": "Frecuencia de sucesos y cronometría (relojes)",
+    "verificado": true
+  },
+  {
+    "id": "hm-s09-certezas-ruedas",
+    "cursoId": "hm",
+    "semana": 9,
+    "titulo": "Certezas y ruedas, poleas y engranajes",
+    "verificado": true
+  },
+  {
+    "id": "hm-s10-maximos-minimos",
+    "cursoId": "hm",
+    "semana": 10,
+    "titulo": "Máximos y mínimos, parentesco y simetría",
+    "verificado": true
+  },
+  {
+    "id": "hm-s11-seccionamientos-cortes",
+    "cursoId": "hm",
+    "semana": 11,
+    "titulo": "Seccionamientos y cortes, áreas y planteo de ecuaciones",
+    "verificado": true
+  },
+  {
+    "id": "hm-s12-pesadas-balanzas",
+    "cursoId": "hm",
+    "semana": 12,
+    "titulo": "Pesadas y balanzas, congruencia y semejanza de figuras",
+    "verificado": true
+  },
+  {
+    "id": "hm-s13-rotacion-traslacion",
+    "cursoId": "hm",
+    "semana": 13,
+    "titulo": "Rotación y traslación de figuras, y proyecciones espaciales",
+    "verificado": true
+  },
+  {
+    "id": "hm-s14-rutas-calendarios",
+    "cursoId": "hm",
+    "semana": 14,
+    "titulo": "Rutas y trayectorias, y calendarios",
+    "verificado": true
+  },
+  {
+    "id": "hm-s15-tablas-graficos",
+    "cursoId": "hm",
+    "semana": 15,
+    "titulo": "Tablas y gráficos estadísticos, y suficiencia de datos",
+    "verificado": true
+  },
+  {
+    "id": "arit-s01-logica-proposicional",
+    "cursoId": "arit",
+    "semana": 1,
+    "titulo": "Lógica proposicional y tablas de verdad",
+    "verificado": true
+  },
+  {
+    "id": "arit-s02-teoria-conjuntos",
+    "cursoId": "arit",
+    "semana": 2,
+    "titulo": "Teoría de conjuntos y operaciones",
+    "verificado": true
+  },
+  {
+    "id": "arit-s03-sistema-numeros-naturales",
+    "cursoId": "arit",
+    "semana": 3,
+    "titulo": "Sistema de números naturales (N) y numeración",
+    "verificado": true
+  },
+  {
+    "id": "arit-s04-sistema-numeros-enteros",
+    "cursoId": "arit",
+    "semana": 4,
+    "titulo": "Sistema de números enteros (Z) y divisibilidad",
+    "verificado": true
+  },
+  {
+    "id": "arit-s05-teorema-fundamental-aritmetica",
+    "cursoId": "arit",
+    "semana": 5,
+    "titulo": "Teorema fundamental de la aritmética y números primos",
+    "verificado": true
+  },
+  {
+    "id": "arit-s06-mcd-mcm",
+    "cursoId": "arit",
+    "semana": 6,
+    "titulo": "MCD y MCM (Algoritmo de Euclides)",
+    "verificado": true
+  },
+  {
+    "id": "arit-s07-numeros-racionales-decimales",
+    "cursoId": "arit",
+    "semana": 7,
+    "titulo": "Números racionales (Q) y números decimales",
+    "verificado": true
+  },
+  {
+    "id": "arit-s08-razones-proporciones",
+    "cursoId": "arit",
+    "semana": 8,
+    "titulo": "Razones y proporciones",
+    "verificado": true
+  },
+  {
+    "id": "arit-s09-magnitudes-proporcionales",
+    "cursoId": "arit",
+    "semana": 9,
+    "titulo": "Magnitudes proporcionales y regla de tres",
+    "verificado": true
+  },
+  {
+    "id": "arit-s10-porcentajes-operaciones-comerciales",
+    "cursoId": "arit",
+    "semana": 10,
+    "titulo": "Porcentajes y aplicaciones comerciales (interés y descuento)",
+    "verificado": true
+  },
+  {
+    "id": "arit-s11-mezclas-aleaciones",
+    "cursoId": "arit",
+    "semana": 11,
+    "titulo": "Regla de mezcla y aleaciones",
+    "verificado": true
+  },
+  {
+    "id": "arit-s12-sucesiones-series",
+    "cursoId": "arit",
+    "semana": 12,
+    "titulo": "Sucesiones y series (sumatorias notables)",
+    "verificado": true
+  },
+  {
+    "id": "arit-s13-estadistica-descriptiva",
+    "cursoId": "arit",
+    "semana": 13,
+    "titulo": "Estadística descriptiva y medidas de posición y dispersión",
+    "verificado": true
+  },
+  {
+    "id": "arit-s14-analisis-combinatorio",
+    "cursoId": "arit",
+    "semana": 14,
+    "titulo": "Análisis combinatorio",
+    "verificado": true
+  },
+  {
+    "id": "arit-s15-calculo-probabilidades",
+    "cursoId": "arit",
+    "semana": 15,
+    "titulo": "Cálculo de probabilidades",
+    "verificado": true
+  },
+  {
+    "id": "alg-s01-numeros-reales",
+    "cursoId": "alg",
+    "semana": 1,
+    "titulo": "Números reales, potenciación, radicación y productos notables",
+    "verificado": true
+  },
+  {
+    "id": "alg-s02-ecuaciones-inecuaciones",
+    "cursoId": "alg",
+    "semana": 2,
+    "titulo": "Ecuaciones e inecuaciones de 1° y 2° grado (puntos críticos)",
+    "verificado": true
+  },
+  {
+    "id": "alg-s03-valor-absoluto-complejos",
+    "cursoId": "alg",
+    "semana": 3,
+    "titulo": "Valor absoluto y números complejos",
+    "verificado": true
+  },
+  {
+    "id": "alg-s04-polinomios",
+    "cursoId": "alg",
+    "semana": 4,
+    "titulo": "Polinomios: definición, grados y polinomios especiales",
+    "verificado": true
+  },
+  {
+    "id": "alg-s05-division-polinomios",
+    "cursoId": "alg",
+    "semana": 5,
+    "titulo": "División de polinomios: Horner, Ruffini y teorema del resto",
+    "verificado": true
+  },
+  {
+    "id": "alg-s06-factorizacion-polinomios",
+    "cursoId": "alg",
+    "semana": 6,
+    "titulo": "Factorización de polinomios, MCD y MCM",
+    "verificado": true
+  },
+  {
+    "id": "alg-s07-raices-coeficientes",
+    "cursoId": "alg",
+    "semana": 7,
+    "titulo": "Relación entre raíces y coeficientes (Cardano)",
+    "verificado": true
+  },
+  {
+    "id": "alg-s08-binomio-newton-cocientes",
+    "cursoId": "alg",
+    "semana": 8,
+    "titulo": "Binomio de Newton y cocientes notables",
+    "verificado": true
+  },
+  {
+    "id": "alg-s09-ecuaciones-grado-superior",
+    "cursoId": "alg",
+    "semana": 9,
+    "titulo": "Ecuaciones de grado superior, bicuadradas y con radicales",
+    "verificado": true
+  },
+  {
+    "id": "alg-s10-inecuaciones-grado-superior",
+    "cursoId": "alg",
+    "semana": 10,
+    "titulo": "Inecuaciones de grado superior y fraccionarias",
+    "verificado": true
+  },
+  {
+    "id": "alg-s11-funcion-real-variable-real",
+    "cursoId": "alg",
+    "semana": 11,
+    "titulo": "Función real de variable real y funciones elementales",
+    "verificado": true
+  },
+  {
+    "id": "alg-s12-funciones-monotonas",
+    "cursoId": "alg",
+    "semana": 12,
+    "titulo": "Funciones monótonas, inyectivas, biyectivas e inversa",
+    "verificado": true
+  },
+  {
+    "id": "alg-s13-funcion-exponencial-logaritmica",
+    "cursoId": "alg",
+    "semana": 13,
+    "titulo": "Función exponencial y logarítmica (ecuaciones e inecuaciones)",
+    "verificado": true
+  },
+  {
+    "id": "alg-s14-sistema-ecuaciones-lineales",
+    "cursoId": "alg",
+    "semana": 14,
+    "titulo": "Sistema de ecuaciones lineales, matrices y determinantes",
+    "verificado": true
+  },
+  {
+    "id": "alg-s15-sistema-inecuaciones-lineales",
+    "cursoId": "alg",
+    "semana": 15,
+    "titulo": "Sistema de inecuaciones lineales y programación lineal",
+    "verificado": true
+  },
+  {
+    "id": "geom-s01-segmento-angulo-congruencia",
+    "cursoId": "geom",
+    "semana": 1,
+    "titulo": "Segmento, ángulo y congruencia de triángulos",
+    "verificado": true
+  },
+  {
+    "id": "geom-s02-desigualdades-lineas-notables",
+    "cursoId": "geom",
+    "semana": 2,
+    "titulo": "Desigualdades geométricas, paralelas y líneas notables",
+    "verificado": true
+  },
+  {
+    "id": "geom-s03-aplicaciones-congruencia-poligonos",
+    "cursoId": "geom",
+    "semana": 3,
+    "titulo": "Aplicaciones de congruencia, notables y polígonos",
+    "verificado": true
+  },
+  {
+    "id": "geom-s04-cuadrilateros",
+    "cursoId": "geom",
+    "semana": 4,
+    "titulo": "Cuadriláteros: paralelogramos, trapecios y trapezoides",
+    "verificado": true
+  },
+  {
+    "id": "geom-s05-circunferencia",
+    "cursoId": "geom",
+    "semana": 5,
+    "titulo": "Circunferencia: ángulos, Poncelet y Pithot",
+    "verificado": true
+  },
+  {
+    "id": "geom-s06-puntos-notables",
+    "cursoId": "geom",
+    "semana": 6,
+    "titulo": "Puntos notables y cuadrilátero inscriptible",
+    "verificado": true
+  },
+  {
+    "id": "geom-s07-teorema-thales-semejanza",
+    "cursoId": "geom",
+    "semana": 7,
+    "titulo": "Teorema de Thales y semejanza de triángulos",
+    "verificado": true
+  },
+  {
+    "id": "geom-s08-relaciones-metricas",
+    "cursoId": "geom",
+    "semana": 8,
+    "titulo": "Relaciones métricas en el triángulo y en la circunferencia",
+    "verificado": true
+  },
+  {
+    "id": "geom-s09-area-regiones-triangulares",
+    "cursoId": "geom",
+    "semana": 9,
+    "titulo": "Área de regiones triangulares",
+    "verificado": true
+  },
+  {
+    "id": "geom-s10-area-cuadrangulares-circulares",
+    "cursoId": "geom",
+    "semana": 10,
+    "titulo": "Área de regiones cuadrangulares y circulares",
+    "verificado": true
+  },
+  {
+    "id": "geom-s11-geometria-espacio-poliedros",
+    "cursoId": "geom",
+    "semana": 11,
+    "titulo": "Introducción a la geometría del espacio y poliedros regulares",
+    "verificado": true
+  },
+  {
+    "id": "geom-s12-prisma-piramide",
+    "cursoId": "geom",
+    "semana": 12,
+    "titulo": "Prisma y pirámide (elementos, áreas y volumen)",
+    "verificado": true
+  },
+  {
+    "id": "geom-s13-cilindro-cono-esfera",
+    "cursoId": "geom",
+    "semana": 13,
+    "titulo": "Cilindro, cono de revolución y esfera",
+    "verificado": true
+  },
+  {
+    "id": "geom-s14-geometria-analitica-recta",
+    "cursoId": "geom",
+    "semana": 14,
+    "titulo": "Geometría analítica: ecuación de la recta y circunferencia",
+    "verificado": true
+  },
+  {
+    "id": "geom-s15-parabola-elipse",
+    "cursoId": "geom",
+    "semana": 15,
+    "titulo": "Ecuación de la parábola y elipse",
+    "verificado": true
+  },
+  {
+    "id": "trig-s01-sistemas-medidas-angulares",
+    "cursoId": "trig",
+    "semana": 1,
+    "titulo": "Ángulo trigonométrico y sistemas de medidas angulares",
+    "verificado": true
+  },
+  {
+    "id": "trig-s02-longitud-arco-sector",
+    "cursoId": "trig",
+    "semana": 2,
+    "titulo": "Longitud de arco y área de un sector circular",
+    "verificado": true
+  },
+  {
+    "id": "trig-s03-razones-trigonometricas-agudos",
+    "cursoId": "trig",
+    "semana": 3,
+    "titulo": "Razones trigonométricas de ángulos agudos y notables",
+    "verificado": true
+  },
+  {
+    "id": "trig-s04-angulo-posicion-normal",
+    "cursoId": "trig",
+    "semana": 4,
+    "titulo": "Ángulo en posición normal y razones de ángulos cuadrantales",
+    "verificado": true
+  },
+  {
+    "id": "trig-s05-reduccion-primer-cuadrante",
+    "cursoId": "trig",
+    "semana": 5,
+    "titulo": "Reducción de ángulos al primer cuadrante",
+    "verificado": true
+  },
+  {
+    "id": "trig-s06-identidades-trigonometricas",
+    "cursoId": "trig",
+    "semana": 6,
+    "titulo": "Identidades trigonométricas fundamentales y auxiliares",
+    "verificado": true
+  },
+  {
+    "id": "trig-s07-suma-diferencia-angulos",
+    "cursoId": "trig",
+    "semana": 7,
+    "titulo": "Razones trigonométricas de la suma y diferencia de ángulos",
+    "verificado": true
+  },
+  {
+    "id": "trig-s08-angulo-doble-mitad-triple",
+    "cursoId": "trig",
+    "semana": 8,
+    "titulo": "Razones trigonométricas del ángulo doble, mitad y triple",
+    "verificado": true
+  },
+  {
+    "id": "trig-s09-transformaciones-trigonometricas",
+    "cursoId": "trig",
+    "semana": 9,
+    "titulo": "Transformaciones de suma o diferencia a producto",
+    "verificado": true
+  },
+  {
+    "id": "trig-s10-ecuaciones-trigonometricas",
+    "cursoId": "trig",
+    "semana": 10,
+    "titulo": "Ecuaciones trigonométricas elementales y no elementales",
+    "verificado": true
+  },
+  {
+    "id": "trig-s11-triangulos-oblicuangulos",
+    "cursoId": "trig",
+    "semana": 11,
+    "titulo": "Resolución de triángulos oblicuángulos (senos, cosenos, tangentes)",
+    "verificado": true
+  },
+  {
+    "id": "trig-s12-circulo-trigonometrico-i",
+    "cursoId": "trig",
+    "semana": 12,
+    "titulo": "Círculo trigonométrico I: líneas seno, coseno y tangente",
+    "verificado": true
+  },
+  {
+    "id": "trig-s13-circulo-trigonometrico-ii",
+    "cursoId": "trig",
+    "semana": 13,
+    "titulo": "Círculo trigonométrico II: cotangente, secante y cosecante",
+    "verificado": true
+  },
+  {
+    "id": "trig-s14-funciones-trigonometricas",
+    "cursoId": "trig",
+    "semana": 14,
+    "titulo": "Funciones trigonométricas directas (dominio, rango y gráfica)",
+    "verificado": true
+  },
+  {
+    "id": "trig-s15-funciones-trigonometricas-inversas",
+    "cursoId": "trig",
+    "semana": 15,
+    "titulo": "Funciones trigonométricas inversas (arco seno, coseno, tangente)",
+    "verificado": true
+  },
+  {
+    "id": "leng-s01-comunicacion-lenguaje",
+    "cursoId": "leng",
+    "semana": 1,
+    "titulo": "La comunicación, lenguaje humano, lengua y habla",
+    "verificado": true
+  },
+  {
+    "id": "leng-s02-realidad-linguistica-gramatica",
+    "cursoId": "leng",
+    "semana": 2,
+    "titulo": "Realidad lingüística del Perú y gramática normativa",
+    "verificado": true
+  },
+  {
+    "id": "leng-s03-fonetica-fonologia",
+    "cursoId": "leng",
+    "semana": 3,
+    "titulo": "Fonética y fonología: fonemas vocálicos y consonánticos",
+    "verificado": true
+  },
+  {
+    "id": "leng-s04-fonemas-suprasegmentales-silaba",
+    "cursoId": "leng",
+    "semana": 4,
+    "titulo": "Acento, tono, sílaba y grupos vocálicos",
+    "verificado": true
+  },
+  {
+    "id": "leng-s05-escritura-mayusculas",
+    "cursoId": "leng",
+    "semana": 5,
+    "titulo": "La escritura y uso normativo de mayúsculas y minúsculas",
+    "verificado": true
+  },
+  {
+    "id": "leng-s06-acentuacion-morfologia",
+    "cursoId": "leng",
+    "semana": 6,
+    "titulo": "Acentuación general/especial y formación de palabras",
+    "verificado": true
+  },
+  {
+    "id": "leng-s07-semantica-denotacion-connotacion",
+    "cursoId": "leng",
+    "semana": 7,
+    "titulo": "Teoría semántica, relaciones semánticas y denotación/connotación",
+    "verificado": true
+  },
+  {
+    "id": "leng-s08-frase-nominal",
+    "cursoId": "leng",
+    "semana": 8,
+    "titulo": "La frase nominal: sustantivo, pronombre, adjetivo y determinantes",
+    "verificado": true
+  },
+  {
+    "id": "leng-s09-frase-verbal",
+    "cursoId": "leng",
+    "semana": 9,
+    "titulo": "La frase verbal: verbo, conjugación y complementos",
+    "verificado": true
+  },
+  {
+    "id": "leng-s10-categorias-invariables",
+    "cursoId": "leng",
+    "semana": 10,
+    "titulo": "Categorías invariables: adverbio, preposición y conjunción",
+    "verificado": true
+  },
+  {
+    "id": "leng-s11-oracion-simple-coordinada",
+    "cursoId": "leng",
+    "semana": 11,
+    "titulo": "La oración simple y oración compuesta coordinada",
+    "verificado": true
+  },
+  {
+    "id": "leng-s12-subordinada-sustantiva",
+    "cursoId": "leng",
+    "semana": 12,
+    "titulo": "La oración compuesta subordinada sustantiva",
+    "verificado": true
+  },
+  {
+    "id": "leng-s13-subordinada-adjetiva-adverbial",
+    "cursoId": "leng",
+    "semana": 13,
+    "titulo": "La oración compuesta subordinada adjetiva y adverbial",
+    "verificado": true
+  },
+  {
+    "id": "leng-s14-puntuacion-estilo",
+    "cursoId": "leng",
+    "semana": 14,
+    "titulo": "Normativa de la puntuación (punto, coma, punto y coma, comillas)",
+    "verificado": true
+  },
+  {
+    "id": "leng-s15-texto-mecanismos-cohesion",
+    "cursoId": "leng",
+    "semana": 15,
+    "titulo": "El texto: propiedades, mecanismos de cohesión y referencia",
+    "verificado": true
+  },
+  {
+    "id": "lit-s01-conceptos-figuras-iliada",
+    "cursoId": "lit",
+    "semana": 1,
+    "titulo": "Conceptos fundamentales, figuras literarias y épica griega: Ilíada",
+    "verificado": true
+  },
+  {
+    "id": "lit-s02-odisea-tragedia-edipo",
+    "cursoId": "lit",
+    "semana": 2,
+    "titulo": "Épica griega: Odisea, y tragedia: Sófocles (Edipo Rey)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s03-edad-moderna-romanticismo",
+    "cursoId": "lit",
+    "semana": 3,
+    "titulo": "Literatura moderna (Shakespeare) y romanticismo (Goethe)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s04-realismo-contemporanea",
+    "cursoId": "lit",
+    "semana": 4,
+    "titulo": "Realismo s. XIX (Dostoievski) y literatura contemporánea (Kafka)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s05-espanola-medieval-barroco",
+    "cursoId": "lit",
+    "semana": 5,
+    "titulo": "Española medieval (Mio Cid) y Siglo de Oro (Calderón de la Barca)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s06-narrativa-barroca-becquer",
+    "cursoId": "lit",
+    "semana": 6,
+    "titulo": "Narrativa barroca (Cervantes: Quijote) y romanticismo (Bécquer)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s07-modernismo-neruda",
+    "cursoId": "lit",
+    "semana": 7,
+    "titulo": "Hispanoamericana: Modernismo (Darío) y Neruda",
+    "verificado": true
+  },
+  {
+    "id": "lit-s08-nueva-narrativa-hispanoamericana",
+    "cursoId": "lit",
+    "semana": 8,
+    "titulo": "Nueva narrativa hispanoamericana: Borges y García Márquez",
+    "verificado": true
+  },
+  {
+    "id": "lit-s09-carpentier-literatura-colonial",
+    "cursoId": "lit",
+    "semana": 9,
+    "titulo": "Alejo Carpentier y literatura peruana colonial (Inca Garcilaso)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s10-costumbrismo-palma",
+    "cursoId": "lit",
+    "semana": 10,
+    "titulo": "Costumbrismo peruano (Segura) y romanticismo (Palma)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s11-realismo-matto-gonzalez-prada",
+    "cursoId": "lit",
+    "semana": 11,
+    "titulo": "Realismo: Clorinda Matto de Turner y Manuel González Prada",
+    "verificado": true
+  },
+  {
+    "id": "lit-s12-postmodernismo-vallejo",
+    "cursoId": "lit",
+    "semana": 12,
+    "titulo": "Postmodernismo (Eguren, Valdelomar) y vanguardismo (Vallejo)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s13-indigenismo-alegria-arguedas",
+    "cursoId": "lit",
+    "semana": 13,
+    "titulo": "Indigenismo: Ciro Alegría y José María Arguedas",
+    "verificado": true
+  },
+  {
+    "id": "lit-s14-generacion-50-poesia-contemporanea",
+    "cursoId": "lit",
+    "semana": 14,
+    "titulo": "Generación del 50 (Ribeyro) y poesía contemporánea (Varela)",
+    "verificado": true
+  },
+  {
+    "id": "lit-s15-narrativa-contemporanea-vargas-llosa-bryce",
+    "cursoId": "lit",
+    "semana": 15,
+    "titulo": "Narrativa contemporánea: Mario Vargas Llosa y Bryce Echenique",
+    "verificado": true
+  },
+  {
+    "id": "psic-s01-introduccion-psicologia",
+    "cursoId": "psic",
+    "semana": 1,
+    "titulo": "Introducción a la psicología: métodos, escuelas y ramas",
+    "verificado": true
+  },
+  {
+    "id": "psic-s02-bases-biologicas",
+    "cursoId": "psic",
+    "semana": 2,
+    "titulo": "Bases biológicas del comportamiento: sistema nervioso y cerebro",
+    "verificado": true
+  },
+  {
+    "id": "psic-s03-bases-sociales",
+    "cursoId": "psic",
+    "semana": 3,
+    "titulo": "Bases sociales del comportamiento: familia, socialización y cultura",
+    "verificado": true
+  },
+  {
+    "id": "psic-s04-autoconocimiento-autoestima",
+    "cursoId": "psic",
+    "semana": 4,
+    "titulo": "Autoconocimiento, autoconcepto, autoestima y adaptación",
+    "verificado": true
+  },
+  {
+    "id": "psic-s05-comportamiento-etico",
+    "cursoId": "psic",
+    "semana": 5,
+    "titulo": "Comportamiento ético y valores morales",
+    "verificado": true
+  },
+  {
+    "id": "psic-s06-proyecto-vida-vocacional",
+    "cursoId": "psic",
+    "semana": 6,
+    "titulo": "Proyecto de vida, uso del tiempo y orientación vocacional",
+    "verificado": true
+  },
+  {
+    "id": "psic-s07-sexualidad-genero",
+    "cursoId": "psic",
+    "semana": 7,
+    "titulo": "Sexualidad y género: roles, vínculos afectivos y salud sexual",
+    "verificado": true
+  },
+  {
+    "id": "psic-s08-sensacion-percepcion",
+    "cursoId": "psic",
+    "semana": 8,
+    "titulo": "Sensación y percepción: umbrales, leyes perceptivas y alteraciones",
+    "verificado": true
+  },
+  {
+    "id": "psic-s09-atencion-memoria",
+    "cursoId": "psic",
+    "semana": 9,
+    "titulo": "Atención y memoria: tipos, almacenamiento y olvido",
+    "verificado": true
+  },
+  {
+    "id": "psic-s10-pensamiento-lenguaje",
+    "cursoId": "psic",
+    "semana": 10,
+    "titulo": "Pensamiento y lenguaje: resolución de problemas y creatividad",
+    "verificado": true
+  },
+  {
+    "id": "psic-s11-inteligencia-teorias",
+    "cursoId": "psic",
+    "semana": 11,
+    "titulo": "Inteligencia: teorías clásicas, inteligencias múltiples y emocional",
+    "verificado": true
+  },
+  {
+    "id": "psic-s12-enfoques-aprendizaje",
+    "cursoId": "psic",
+    "semana": 12,
+    "titulo": "Aprendizaje: condicionamiento clásico, operante y cognitivo",
+    "verificado": true
+  },
+  {
+    "id": "psic-s13-afectividad-motivacion",
+    "cursoId": "psic",
+    "semana": 13,
+    "titulo": "Afectividad y motivación: emociones, sentimientos y necesidades",
+    "verificado": true
+  },
+  {
+    "id": "psic-s14-desarrollo-humano",
+    "cursoId": "psic",
+    "semana": 14,
+    "titulo": "Desarrollo humano: etapas del ciclo vital",
+    "verificado": true
+  },
+  {
+    "id": "psic-s15-personalidad-ajuste",
+    "cursoId": "psic",
+    "semana": 15,
+    "titulo": "Personalidad: teorías, tipologías y trastornos",
+    "verificado": true
+  },
+  {
+    "id": "civ-s01-derechos-humanos",
+    "cursoId": "civ",
+    "semana": 1,
+    "titulo": "Derechos Humanos y Constitución Política del Perú",
+    "verificado": true
+  },
+  {
+    "id": "civ-s02-garantias-constitucionales",
+    "cursoId": "civ",
+    "semana": 2,
+    "titulo": "Garantías constitucionales en el Perú y Derechos del niño",
+    "verificado": true
+  },
+  {
+    "id": "civ-s03-derecho-internacional-ddhh",
+    "cursoId": "civ",
+    "semana": 3,
+    "titulo": "Derecho Internacional de los Derechos Humanos y Pacto de San José",
+    "verificado": true
+  },
+  {
+    "id": "civ-s04-participacion-ciudadana",
+    "cursoId": "civ",
+    "semana": 4,
+    "titulo": "Participación ciudadana y mecanismos de control ciudadano",
+    "verificado": true
+  },
+  {
+    "id": "civ-s05-organizacion-sociedad-civil",
+    "cursoId": "civ",
+    "semana": 5,
+    "titulo": "Organización de la sociedad civil y movimientos sociales",
+    "verificado": true
+  },
+  {
+    "id": "civ-s06-convivencia-paz-corrupcion",
+    "cursoId": "civ",
+    "semana": 6,
+    "titulo": "Problemas de convivencia en el Perú: cultura de paz y corrupción",
+    "verificado": true
+  },
+  {
+    "id": "civ-s07-resolucion-conflictos-terrorismo",
+    "cursoId": "civ",
+    "semana": 7,
+    "titulo": "Resolución de conflictos y pacificación nacional",
+    "verificado": true
+  },
+  {
+    "id": "civ-s08-patrimonio-interculturalidad",
+    "cursoId": "civ",
+    "semana": 8,
+    "titulo": "Patrimonio histórico y natural, identidad e interculturalidad",
+    "verificado": true
+  },
+  {
+    "id": "civ-s09-peruanidad-costumbres",
+    "cursoId": "civ",
+    "semana": 9,
+    "titulo": "Aspectos que fundamentan nuestra peruanidad y tradiciones",
+    "verificado": true
+  },
+  {
+    "id": "civ-s10-estado-peruano",
+    "cursoId": "civ",
+    "semana": 10,
+    "titulo": "Estado peruano: características, estructura y Estado de Derecho",
+    "verificado": true
+  },
+  {
+    "id": "civ-s11-poder-legislativo",
+    "cursoId": "civ",
+    "semana": 11,
+    "titulo": "Poder Legislativo: organización, funciones y atribuciones",
+    "verificado": true
+  },
+  {
+    "id": "civ-s12-poder-ejecutivo",
+    "cursoId": "civ",
+    "semana": 12,
+    "titulo": "Poder Ejecutivo: Presidencia, Consejo de Ministros y ministerios",
+    "verificado": true
+  },
+  {
+    "id": "civ-s13-poder-judicial",
+    "cursoId": "civ",
+    "semana": 13,
+    "titulo": "Poder Judicial: órganos jurisdiccionales y labor judicial",
+    "verificado": true
+  },
+  {
+    "id": "civ-s14-organos-constitucionales-autonomos",
+    "cursoId": "civ",
+    "semana": 14,
+    "titulo": "Órganos constitucionales autónomos (económicos, jurídicos, electorales)",
+    "verificado": true
+  },
+  {
+    "id": "civ-s15-seguridad-defensa-nacional",
+    "cursoId": "civ",
+    "semana": 15,
+    "titulo": "Sistema de Seguridad y Defensa Nacional y gestión de riesgos",
+    "verificado": true
+  },
+  {
+    "id": "hperu-s02-poblamiento-america-altas-culturas",
+    "cursoId": "hperu",
+    "semana": 2,
+    "titulo": "Poblamiento de América y culturas andinas: Chavín, Paracas, Nasca y Moche",
+    "verificado": true
+  },
+  {
+    "id": "hperu-s05-estados-panandinos-regionales-incas",
+    "cursoId": "hperu",
+    "semana": 5,
+    "titulo": "Estados panandinos (Tiahuanaco y Wari), regionales e Incas",
+    "verificado": true
+  },
+  {
+    "id": "hperu-s08-orden-virreinal-instituciones",
+    "cursoId": "hperu",
+    "semana": 8,
+    "titulo": "Establecimiento del orden virreinal y virreinato del Perú",
+    "verificado": true
+  },
+  {
+    "id": "hperu-s10-reformas-borbonicas-independencia-guano",
+    "cursoId": "hperu",
+    "semana": 10,
+    "titulo": "Reformas borbónicas, independencia, primer militarismo y guano",
+    "verificado": true
+  },
+  {
+    "id": "hperu-s11-primer-civilismo-guerra-chile-oncenio",
+    "cursoId": "hperu",
+    "semana": 11,
+    "titulo": "Primer civilismo, guerra con Chile, República Aristocrática y Oncenio",
+    "verificado": true
+  },
+  {
+    "id": "hperu-s13-tercer-militarismo-belaunde",
+    "cursoId": "hperu",
+    "semana": 13,
+    "titulo": "Tercer Militarismo, Ochenio de Odría y gobiernos de Prado y Belaúnde",
+    "verificado": true
+  },
+  {
+    "id": "hperu-s15-peru-ultimas-decadas-fujimorato-cvr",
+    "cursoId": "hperu",
+    "semana": 15,
+    "titulo": "El Perú en las últimas décadas: FFAA, Fujimorato, siglo XXI y CVR",
+    "verificado": true
+  },
+  {
+    "id": "huniv-s01-teoria-historia-hominizacion",
+    "cursoId": "huniv",
+    "semana": 1,
+    "titulo": "Aspectos teóricos de la historia, hominización y prehistoria",
+    "verificado": true
+  },
+  {
+    "id": "huniv-s03-primeras-civilizaciones-oriente",
+    "cursoId": "huniv",
+    "semana": 3,
+    "titulo": "Primeras civilizaciones de Oriente: Mesopotamia, Egipto, India y China",
+    "verificado": true
+  },
+  {
+    "id": "huniv-s04-mundo-clasico-grecia-roma",
+    "cursoId": "huniv",
+    "semana": 4,
+    "titulo": "Mundo clásico: Grecia y Roma",
+    "verificado": true
+  },
+  {
+    "id": "huniv-s06-edad-media-occidente",
+    "cursoId": "huniv",
+    "semana": 6,
+    "titulo": "La Edad Media en Occidente: reinos germánicos, Bizancio, Islam y feudalismo",
+    "verificado": true
+  },
+  {
+    "id": "huniv-s07-modernidad-renacimiento-ilustracion",
+    "cursoId": "huniv",
+    "semana": 7,
+    "titulo": "Modernidad: Renacimiento, Reforma, absolutismo e Ilustración",
+    "verificado": true
+  },
+  {
+    "id": "huniv-s09-revoluciones-burguesas-siglo-xix",
+    "cursoId": "huniv",
+    "semana": 9,
+    "titulo": "Revoluciones burguesas, revoluciones industriales e imperialismo",
+    "verificado": true
+  },
+  {
+    "id": "huniv-s12-revolucion-rusa-guerras-mundiales",
+    "cursoId": "huniv",
+    "semana": 12,
+    "titulo": "Revolución rusa, ascenso fascista, 2da Guerra Mundial y Guerra Fría",
+    "verificado": true
+  },
+  {
+    "id": "huniv-s14-mundo-contemporaneo-globalizacion",
+    "cursoId": "huniv",
+    "semana": 14,
+    "titulo": "Mundo Contemporáneo: descolonización, crisis soviética y globalización",
+    "verificado": true
+  },
+  {
+    "id": "geog-s01-geografia-espacio-geografico",
+    "cursoId": "geog",
+    "semana": 1,
+    "titulo": "Geografía y espacio geográfico: geosistema y coordenadas",
+    "verificado": true
+  },
+  {
+    "id": "geog-s02-cartografia-mapas-planos",
+    "cursoId": "geog",
+    "semana": 2,
+    "titulo": "Cartografía: nociones básicas, mapas, cartas y planos",
+    "verificado": true
+  },
+  {
+    "id": "geog-s03-fuerzas-geologicas-internas",
+    "cursoId": "geog",
+    "semana": 3,
+    "titulo": "Factores de la transformación del relieve: geodinámica interna",
+    "verificado": true
+  },
+  {
+    "id": "geog-s04-fuerzas-geologicas-externas",
+    "cursoId": "geog",
+    "semana": 4,
+    "titulo": "Fuerzas geológicas externas: meteorización y erosión",
+    "verificado": true
+  },
+  {
+    "id": "geog-s05-relieves-costa-sierra-selva",
+    "cursoId": "geog",
+    "semana": 5,
+    "titulo": "Principales relieves de la costa, región andina y selva del Perú",
+    "verificado": true
+  },
+  {
+    "id": "geog-s06-hidrografia-mar-peruano-cuencas",
+    "cursoId": "geog",
+    "semana": 6,
+    "titulo": "Hidrografía: vertientes del Perú, mar peruano y gestión de riesgos",
+    "verificado": true
+  },
+  {
+    "id": "geog-s07-clima-factores-fenomeno-nino",
+    "cursoId": "geog",
+    "semana": 7,
+    "titulo": "Clima del Perú, clasificación INRENA y fenómenos El Niño/La Niña",
+    "verificado": true
+  },
+  {
+    "id": "geog-s08-cambio-climatico-calentamiento",
+    "cursoId": "geog",
+    "semana": 8,
+    "titulo": "Cambio climático, proceso de calentamiento global y rol del MINAM",
+    "verificado": true
+  },
+  {
+    "id": "geog-s09-biodiversidad-biomas-recursos",
+    "cursoId": "geog",
+    "semana": 9,
+    "titulo": "Biodiversidad, principales biomas del mundo y problemas ambientales",
+    "verificado": true
+  },
+  {
+    "id": "geog-s10-ecorregiones-ocho-regiones",
+    "cursoId": "geog",
+    "semana": 10,
+    "titulo": "Principales ecorregiones del Perú y ocho regiones naturales",
+    "verificado": true
+  },
+  {
+    "id": "geog-s11-amazonia-antartida-areas-protegidas",
+    "cursoId": "geog",
+    "semana": 11,
+    "titulo": "Amazonía, Antártida y Áreas Naturales Protegidas (ANP)",
+    "verificado": true
+  },
+  {
+    "id": "geog-s12-actividades-economicas",
+    "cursoId": "geog",
+    "semana": 12,
+    "titulo": "Actividades económicas: primarias, secundarias y terciarias",
+    "verificado": true
+  },
+  {
+    "id": "geog-s13-poblacion-humana-idh",
+    "cursoId": "geog",
+    "semana": 13,
+    "titulo": "Población humana del Perú: demografía, migraciones e IDH",
+    "verificado": true
+  },
+  {
+    "id": "geog-s14-organizacion-politica-fronteras",
+    "cursoId": "geog",
+    "semana": 14,
+    "titulo": "Organización política y administrativa, fronteras y mar territorial",
+    "verificado": true
+  },
+  {
+    "id": "geog-s15-cinco-continentes",
+    "cursoId": "geog",
+    "semana": 15,
+    "titulo": "Los cinco continentes: relieve, hidrografía, población e IDH",
+    "verificado": true
+  },
+  {
+    "id": "econ-s01-fundamentos-ciencia-economica",
+    "cursoId": "econ",
+    "semana": 1,
+    "titulo": "Fundamentos de la ciencia económica: método, sistemas y escuelas",
+    "verificado": true
+  },
+  {
+    "id": "econ-s02-necesidades-escasez-fpp",
+    "cursoId": "econ",
+    "semana": 2,
+    "titulo": "Necesidades, escasez, frontera de posibilidades (FPP) y costo",
+    "verificado": true
+  },
+  {
+    "id": "econ-s03-demanda-oferta-elasticidades",
+    "cursoId": "econ",
+    "semana": 3,
+    "titulo": "Demanda, oferta, equilibrio de mercado y elasticidades",
+    "verificado": true
+  },
+  {
+    "id": "econ-s04-produccion-empresa-costos",
+    "cursoId": "econ",
+    "semana": 4,
+    "titulo": "Producción, empresa, capital, costos de producción e ingresos",
+    "verificado": true
+  },
+  {
+    "id": "econ-s05-estructuras-fallas-mercado",
+    "cursoId": "econ",
+    "semana": 5,
+    "titulo": "Estructuras y fallas de mercado (monopolio, oligopolio y regulación)",
+    "verificado": true
+  },
+  {
+    "id": "econ-s06-mercado-factores-trabajo",
+    "cursoId": "econ",
+    "semana": 6,
+    "titulo": "Mercado de factores: trabajo, capital humano y salarios",
+    "verificado": true
+  },
+  {
+    "id": "econ-s07-dinero-sistema-financiero",
+    "cursoId": "econ",
+    "semana": 7,
+    "titulo": "Dinero, inflación, sistema financiero y BCRP",
+    "verificado": true
+  },
+  {
+    "id": "econ-s08-sector-publico-politica-fiscal",
+    "cursoId": "econ",
+    "semana": 8,
+    "titulo": "Sector público, política fiscal, sistema tributario (SUNAT) y deuda",
+    "verificado": true
+  },
+  {
+    "id": "econ-s09-consumo-ahorro-inversion",
+    "cursoId": "econ",
+    "semana": 9,
+    "titulo": "Consumo, ahorro, inversión, leyes de Engel e IPC",
+    "verificado": true
+  },
+  {
+    "id": "econ-s10-comercio-internacional-balanza",
+    "cursoId": "econ",
+    "semana": 10,
+    "titulo": "Comercio internacional, balanza de pagos y aranceles",
+    "verificado": true
+  },
+  {
+    "id": "econ-s11-mercado-cambiario-integracion",
+    "cursoId": "econ",
+    "semana": 11,
+    "titulo": "Mercado cambiario, tipo de cambio e integración económica",
+    "verificado": true
+  },
+  {
+    "id": "econ-s12-medicion-actividad-ciclo-pbi",
+    "cursoId": "econ",
+    "semana": 12,
+    "titulo": "Medición de la actividad económica: PBI, ciclo y crecimiento",
+    "verificado": true
+  },
+  {
+    "id": "econ-s13-desarrollo-economico-idh",
+    "cursoId": "econ",
+    "semana": 13,
+    "titulo": "Desarrollo económico, IDH, bienestar y sostenibilidad",
+    "verificado": true
+  },
+  {
+    "id": "econ-s14-economia-informal-pobreza",
+    "cursoId": "econ",
+    "semana": 14,
+    "titulo": "Economía informal, distribución del ingreso, desigualdad y pobreza",
+    "verificado": true
+  },
+  {
+    "id": "econ-s15-emprendimiento-proyectos",
+    "cursoId": "econ",
+    "semana": 15,
+    "titulo": "Emprendimiento, formulación de proyectos y costo-beneficio",
+    "verificado": true
+  },
+  {
+    "id": "filo-s01-nociones-preliminares-filosofia",
+    "cursoId": "filo",
+    "semana": 1,
+    "titulo": "Nociones preliminares de filosofía: origen, actitud y disciplinas",
+    "verificado": true
+  },
+  {
+    "id": "filo-s02-filosofia-antigua",
+    "cursoId": "filo",
+    "semana": 2,
+    "titulo": "Filosofía antigua: Sócrates, Platón y Aristóteles",
+    "verificado": true
+  },
+  {
+    "id": "filo-s03-filosofia-moderna",
+    "cursoId": "filo",
+    "semana": 3,
+    "titulo": "Filosofía moderna: Descartes, Locke, Hume y Kant",
+    "verificado": true
+  },
+  {
+    "id": "filo-s04-filosofia-contemporanea",
+    "cursoId": "filo",
+    "semana": 4,
+    "titulo": "Filosofía contemporánea: Hegel, Comte, Marx y Nietzsche",
+    "verificado": true
+  },
+  {
+    "id": "filo-s05-filosofia-latinoamerica-peru",
+    "cursoId": "filo",
+    "semana": 5,
+    "titulo": "Filosofía en Latinoamérica y en el Perú: períodos y problemas",
+    "verificado": true
+  },
+  {
+    "id": "filo-s06-logica-argumentacion-falacias",
+    "cursoId": "filo",
+    "semana": 6,
+    "titulo": "Lógica y teoría de la argumentación: falacias y argumentos",
+    "verificado": true
+  },
+  {
+    "id": "filo-s07-teoria-conocimiento-gnoseologia",
+    "cursoId": "filo",
+    "semana": 7,
+    "titulo": "Teoría del conocimiento (Gnoseología) y teorías de la verdad",
+    "verificado": true
+  },
+  {
+    "id": "filo-s08-teoria-ciencia-epistemologia",
+    "cursoId": "filo",
+    "semana": 8,
+    "titulo": "Teoría de la ciencia (Epistemología): método y conocimiento",
+    "verificado": true
+  },
+  {
+    "id": "filo-s09-problemas-epistemologicos",
+    "cursoId": "filo",
+    "semana": 9,
+    "titulo": "Problemas epistemológicos contemporáneos: Popper, Kuhn, Feyerabend",
+    "verificado": true
+  },
+  {
+    "id": "filo-s10-antropologia-filosofica",
+    "cursoId": "filo",
+    "semana": 10,
+    "titulo": "Antropología filosófica: origen, naturaleza humana e identidad",
+    "verificado": true
+  },
+  {
+    "id": "filo-s11-teoria-valor-axiologia",
+    "cursoId": "filo",
+    "semana": 11,
+    "titulo": "Teoría del valor (Axiología): juicios de valor y fundamentos",
+    "verificado": true
+  },
+  {
+    "id": "filo-s12-teoria-moral-etica",
+    "cursoId": "filo",
+    "semana": 12,
+    "titulo": "Teoría de la moral (Ética): valores fundamentales y dilemas",
+    "verificado": true
+  },
+  {
+    "id": "filo-s13-teoria-belleza-estetica",
+    "cursoId": "filo",
+    "semana": 13,
+    "titulo": "Teoría de la belleza (Estética): juicios estéticos y arte",
+    "verificado": true
+  },
+  {
+    "id": "filo-s14-filosofia-politica-clasica",
+    "cursoId": "filo",
+    "semana": 14,
+    "titulo": "Filosofía política I: historia (Platón a Rawls), libertad y justicia",
+    "verificado": true
+  },
+  {
+    "id": "filo-s15-filosofia-politica-contemporanea",
+    "cursoId": "filo",
+    "semana": 15,
+    "titulo": "Filosofía política II: corrientes contemporáneas, democracia y Estado",
+    "verificado": true
+  },
+  {
+    "id": "fis-s01-analisis-dimensional-vectores",
+    "cursoId": "fis",
+    "semana": 1,
+    "titulo": "Cantidades físicas, análisis dimensional y adición de vectores",
+    "verificado": true
+  },
+  {
+    "id": "fis-s02-cinematica-mru-mruv-caida",
+    "cursoId": "fis",
+    "semana": 2,
+    "titulo": "Cinemática: MRU, MRUV, gráficas de movimiento y caída libre",
+    "verificado": true
+  },
+  {
+    "id": "fis-s03-movimiento-dos-dimensiones",
+    "cursoId": "fis",
+    "semana": 3,
+    "titulo": "Movimiento en dos dimensiones: parabólico, MCU y MCUV",
+    "verificado": true
+  },
+  {
+    "id": "fis-s04-leyes-newton-dinamica-estatica",
+    "cursoId": "fis",
+    "semana": 4,
+    "titulo": "Leyes de Newton, dinámica rectilínea/circular, torque y equilibrio",
+    "verificado": true
+  },
+  {
+    "id": "fis-s05-trabajo-potencia-energia",
+    "cursoId": "fis",
+    "semana": 5,
+    "titulo": "Trabajo mecánico, potencia y conservación de la energía",
+    "verificado": true
+  },
+  {
+    "id": "fis-s06-cantidad-movimiento-gravitacion",
+    "cursoId": "fis",
+    "semana": 6,
+    "titulo": "Cantidad de movimiento, colisiones y gravitación universal",
+    "verificado": true
+  },
+  {
+    "id": "fis-s07-estatica-dinamica-fluidos",
+    "cursoId": "fis",
+    "semana": 7,
+    "titulo": "Fluidos en reposo (Pascal, Arquímedes) y fluidos en movimiento",
+    "verificado": true
+  },
+  {
+    "id": "fis-s08-calor-temperatura-termodinamica",
+    "cursoId": "fis",
+    "semana": 8,
+    "titulo": "Calor, temperatura, ley cero de la termodinámica y calorimetría",
+    "verificado": true
+  },
+  {
+    "id": "fis-s09-electrostatica-capacitancia",
+    "cursoId": "fis",
+    "semana": 9,
+    "titulo": "Electrostática: campo eléctrico, potencial y capacitancia",
+    "verificado": true
+  },
+  {
+    "id": "fis-s10-corriente-electrica-circuitos",
+    "cursoId": "fis",
+    "semana": 10,
+    "titulo": "Corriente continua, ley de Ohm, efecto Joule y Kirchhoff",
+    "verificado": true
+  },
+  {
+    "id": "fis-s11-magnetismo-fuerza-magnetica",
+    "cursoId": "fis",
+    "semana": 11,
+    "titulo": "Magnetismo: campo magnético y fuerza magnética",
+    "verificado": true
+  },
+  {
+    "id": "fis-s12-induccion-electromagnetica",
+    "cursoId": "fis",
+    "semana": 12,
+    "titulo": "Inducción electromagnética: Faraday, Lenz y generador",
+    "verificado": true
+  },
+  {
+    "id": "fis-s13-movimiento-armonico-ondas",
+    "cursoId": "fis",
+    "semana": 13,
+    "titulo": "Movimiento armónico simple (MAS), péndulo y ondas sonoras",
+    "verificado": true
+  },
+  {
+    "id": "fis-s14-ondas-electromagneticas-optica",
+    "cursoId": "fis",
+    "semana": 14,
+    "titulo": "Ondas electromagnéticas y óptica geométrica (espejos y lentes)",
+    "verificado": true
+  },
+  {
+    "id": "fis-s15-relatividad-fisica-moderna",
+    "cursoId": "fis",
+    "semana": 15,
+    "titulo": "Relatividad especial de Einstein, efecto fotoeléctrico y radiación",
+    "verificado": true
+  },
+  {
+    "id": "quim-s01-materia-sistema-internacional",
+    "cursoId": "quim",
+    "semana": 1,
+    "titulo": "Química, ramas, materia (mezclas/sustancias) y SI",
+    "verificado": true
+  },
+  {
+    "id": "quim-s02-estructura-atomica-tabla",
+    "cursoId": "quim",
+    "semana": 2,
+    "titulo": "Estructura atómica, números cuánticos y Tabla Periódica Moderna",
+    "verificado": true
+  },
+  {
+    "id": "quim-s03-enlace-quimico",
+    "cursoId": "quim",
+    "semana": 3,
+    "titulo": "Enlace químico",
+    "verificado": true
+  },
+  {
+    "id": "quim-s04-nomenclatura-inorganica-estequiometria-i",
+    "cursoId": "quim",
+    "semana": 4,
+    "titulo": "Nomenclatura inorgánica I (óxidos, hidruros, ácidos, sales) y mol",
+    "verificado": true
+  },
+  {
+    "id": "quim-s05-nomenclatura-inorganica-estequiometria-ii",
+    "cursoId": "quim",
+    "semana": 5,
+    "titulo": "Nomenclatura inorgánica II y estequiometría II (leyes ponderales)",
+    "verificado": true
+  },
+  {
+    "id": "quim-s06-reacciones-quimicas-redox",
+    "cursoId": "quim",
+    "semana": 6,
+    "titulo": "Reacciones químicas, balance redox, reactivo limitante y pureza",
+    "verificado": true
+  },
+  {
+    "id": "quim-s07-electroquimica-galvanicas-electrolisis",
+    "cursoId": "quim",
+    "semana": 7,
+    "titulo": "Electroquímica: celdas galvánicas y electrólisis (Faraday)",
+    "verificado": true
+  },
+  {
+    "id": "quim-s08-estados-materia-gases-liquidos",
+    "cursoId": "quim",
+    "semana": 8,
+    "titulo": "Estados de la materia: gases ideales, líquidos y sólidos",
+    "verificado": true
+  },
+  {
+    "id": "quim-s09-sistemas-dispersos-soluciones",
+    "cursoId": "quim",
+    "semana": 9,
+    "titulo": "Sistemas dispersos I: mezclas, soluciones y concentraciones (M y N)",
+    "verificado": true
+  },
+  {
+    "id": "quim-s10-cinetica-equilibrio-quimico",
+    "cursoId": "quim",
+    "semana": 10,
+    "titulo": "Cinética química y equilibrio químico (Le Chatelier)",
+    "verificado": true
+  },
+  {
+    "id": "quim-s11-acidos-bases-ph",
+    "cursoId": "quim",
+    "semana": 11,
+    "titulo": "Sistemas dispersos II: ácidos, bases, neutralización y pH",
+    "verificado": true
+  },
+  {
+    "id": "quim-s12-quimica-organica-hidrocarburos",
+    "cursoId": "quim",
+    "semana": 12,
+    "titulo": "Química orgánica I: átomo de carbono e hidrocarburos",
+    "verificado": true
+  },
+  {
+    "id": "quim-s13-compuestos-oxigenados",
+    "cursoId": "quim",
+    "semana": 13,
+    "titulo": "Química orgánica II: compuestos oxigenados (alcoholes, aldehídos, ácidos, lípidos)",
+    "verificado": true
+  },
+  {
+    "id": "quim-s14-compuestos-nitrogenados-naturales",
+    "cursoId": "quim",
+    "semana": 14,
+    "titulo": "Química orgánica IV y V: compuestos nitrogenados y productos naturales",
+    "verificado": true
+  },
+  {
+    "id": "quim-s15-recursos-naturales-contaminacion",
+    "cursoId": "quim",
+    "semana": 15,
+    "titulo": "Recursos naturales (metalurgia, petróleo) y contaminación ambiental",
+    "verificado": true
+  },
+  {
+    "id": "bio-s01-metodo-cientifico-biomoleculas",
+    "cursoId": "bio",
+    "semana": 1,
+    "titulo": "Método científico, características de la vida, virus y biomoléculas",
+    "verificado": true
+  },
+  {
+    "id": "bio-s02-celula-procariota-eucariota",
+    "cursoId": "bio",
+    "semana": 2,
+    "titulo": "Célula procariota y eucariota, organelas, núcleo y código genético",
+    "verificado": true
+  },
+  {
+    "id": "bio-s03-tejidos-nutricion-fotosintesis",
+    "cursoId": "bio",
+    "semana": 3,
+    "titulo": "Tejidos vegetales/animales, fotosíntesis y respiración celular",
+    "verificado": true
+  },
+  {
+    "id": "bio-s04-sistema-respiratorio-digestivo",
+    "cursoId": "bio",
+    "semana": 4,
+    "titulo": "Sistema respiratorio y digestivo en humanos y animales",
+    "verificado": true
+  },
+  {
+    "id": "bio-s05-sistema-circulatorio-transporte",
+    "cursoId": "bio",
+    "semana": 5,
+    "titulo": "Circulación y transporte: circulatorio, linfático y transporte vegetal",
+    "verificado": true
+  },
+  {
+    "id": "bio-s06-sistema-excretor-inmunologico",
+    "cursoId": "bio",
+    "semana": 6,
+    "titulo": "Sistema excretor humano y animal, e inmunología",
+    "verificado": true
+  },
+  {
+    "id": "bio-s07-coordinacion-quimica-endocrino",
+    "cursoId": "bio",
+    "semana": 7,
+    "titulo": "Coordinación química: fitohormonas y sistema endocrino",
+    "verificado": true
+  },
+  {
+    "id": "bio-s08-sistema-nervioso-sentidos",
+    "cursoId": "bio",
+    "semana": 8,
+    "titulo": "Coordinación nerviosa: sistema nervioso y órganos de los sentidos",
+    "verificado": true
+  },
+  {
+    "id": "bio-s09-reproduccion-celular-humana",
+    "cursoId": "bio",
+    "semana": 9,
+    "titulo": "Reproducción: mitosis, meiosis y sistema reproductor humano",
+    "verificado": true
+  },
+  {
+    "id": "bio-s10-genetica-mendeliana-herencia",
+    "cursoId": "bio",
+    "semana": 10,
+    "titulo": "Genética: leyes de Mendel, herencia ligada al sexo y mutaciones",
+    "verificado": true
+  },
+  {
+    "id": "bio-s11-origen-vida-evolucion",
+    "cursoId": "bio",
+    "semana": 11,
+    "titulo": "Evolución y biodiversidad: origen de la vida, teorías y evolución humana",
+    "verificado": true
+  },
+  {
+    "id": "bio-s12-reino-animal-phyla",
+    "cursoId": "bio",
+    "semana": 12,
+    "titulo": "Reino Animal: phyla del reino animal, especies útiles y en extinción",
+    "verificado": true
+  },
+  {
+    "id": "bio-s13-reino-plantae-divisiones",
+    "cursoId": "bio",
+    "semana": 13,
+    "titulo": "Reino Plantae: divisiones vegetales, plantas útiles y en extinción",
+    "verificado": true
+  },
+  {
+    "id": "bio-s14-salud-enfermedad-infecciosas",
+    "cursoId": "bio",
+    "semana": 14,
+    "titulo": "Salud e higiene: tipos de enfermedades, infecciosas y profilaxis",
+    "verificado": true
+  },
+  {
+    "id": "bio-s15-ecologia-recursos-conservacion",
+    "cursoId": "bio",
+    "semana": 15,
+    "titulo": "Ecología y recursos naturales: ecosistemas, cambio climático y ANP",
+    "verificado": true
+  },
+  {
+    "id": "anat-s04-sistema-respiratorio-digestivo",
+    "cursoId": "anat",
+    "semana": 4,
+    "titulo": "Sistema respiratorio y digestivo humano",
+    "verificado": true
+  },
+  {
+    "id": "anat-s05-sistema-circulatorio-linfatico",
+    "cursoId": "anat",
+    "semana": 5,
+    "titulo": "Sistema circulatorio y linfático humano",
+    "verificado": true
+  },
+  {
+    "id": "anat-s06-sistema-excretor-inmunologico",
+    "cursoId": "anat",
+    "semana": 6,
+    "titulo": "Sistema excretor y sistema inmunológico humano",
+    "verificado": true
+  },
+  {
+    "id": "anat-s07-sistema-endocrino-humano",
+    "cursoId": "anat",
+    "semana": 7,
+    "titulo": "Sistema endocrino humano (glándulas y hormonas)",
+    "verificado": true
+  },
+  {
+    "id": "anat-s08-sistema-nervioso-sentidos",
+    "cursoId": "anat",
+    "semana": 8,
+    "titulo": "Sistema nervioso humano y órganos de los sentidos",
+    "verificado": true
+  },
+  {
+    "id": "anat-s14-salud-enfermedades-infecciosas",
+    "cursoId": "anat",
+    "semana": 14,
+    "titulo": "Salud humana, enfermedades infecciosas y profilaxis",
+    "verificado": true
+  }
+]

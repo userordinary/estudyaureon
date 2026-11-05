@@ -1,0 +1,57 @@
+{
+  "cepre1": {
+    "nombre": "1.ª Evaluación CEPRE",
+    "semanas": [1, 4],
+    "buena": 3,
+    "mala": 0.168,
+    "max": 300,
+    "preguntas": 100,
+    "actitudinal": 0,
+    "hv": 15,
+    "hm": 15
+  },
+  "cepre2": {
+    "nombre": "2.ª Evaluación CEPRE",
+    "semanas": [1, 8],
+    "buena": 4,
+    "mala": 0.225,
+    "max": 400,
+    "preguntas": 100,
+    "actitudinal": 0,
+    "hv": 15,
+    "hm": 15
+  },
+  "cepre3": {
+    "nombre": "3.ª Evaluación CEPRE",
+    "semanas": [1, 12],
+    "buena": 5,
+    "mala": 0.282,
+    "max": 500,
+    "preguntas": 100,
+    "actitudinal": 0,
+    "hv": 15,
+    "hm": 15
+  },
+  "cepre4": {
+    "nombre": "4.ª Evaluación CEPRE",
+    "semanas": [1, 15],
+    "buena": 8,
+    "mala": 0.45,
+    "max": 800,
+    "preguntas": 100,
+    "actitudinal": 10,
+    "hv": 10,
+    "hm": 10
+  },
+  "admision": {
+    "nombre": "Simulacro Admisión General",
+    "semanas": [1, 15],
+    "buena": 20,
+    "mala": 1.125,
+    "max": 2000,
+    "preguntas": 100,
+    "actitudinal": 10,
+    "hv": 10,
+    "hm": 10
+  }
+}

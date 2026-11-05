@@ -1,0 +1,154 @@
+[
+  {
+    "id": "hv",
+    "nombre": "Habilidad Verbal",
+    "bloque": "aptitud",
+    "color": "#4F46E5",
+    "seccion": "habilidades",
+    "orden": 1
+  },
+  {
+    "id": "hm",
+    "nombre": "Habilidad Matemática",
+    "bloque": "aptitud",
+    "color": "#4F46E5",
+    "seccion": "habilidades",
+    "orden": 2
+  },
+  {
+    "id": "arit",
+    "nombre": "Aritmética",
+    "bloque": "matematica",
+    "color": "#E5484D",
+    "seccion": "conocimientos",
+    "orden": 3
+  },
+  {
+    "id": "alg",
+    "nombre": "Álgebra",
+    "bloque": "matematica",
+    "color": "#E5484D",
+    "seccion": "conocimientos",
+    "orden": 4
+  },
+  {
+    "id": "geom",
+    "nombre": "Geometría",
+    "bloque": "matematica",
+    "color": "#E5484D",
+    "seccion": "conocimientos",
+    "orden": 5
+  },
+  {
+    "id": "trig",
+    "nombre": "Trigonometría",
+    "bloque": "matematica",
+    "color": "#E5484D",
+    "seccion": "conocimientos",
+    "orden": 6
+  },
+  {
+    "id": "leng",
+    "nombre": "Lenguaje",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 7
+  },
+  {
+    "id": "lit",
+    "nombre": "Literatura",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 8
+  },
+  {
+    "id": "psic",
+    "nombre": "Psicología",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 9
+  },
+  {
+    "id": "civ",
+    "nombre": "Cívica",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 10
+  },
+  {
+    "id": "hperu",
+    "nombre": "Historia del Perú",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 11
+  },
+  {
+    "id": "huniv",
+    "nombre": "Historia Universal",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 12
+  },
+  {
+    "id": "geog",
+    "nombre": "Geografía",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 13
+  },
+  {
+    "id": "econ",
+    "nombre": "Economía",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 14
+  },
+  {
+    "id": "filo",
+    "nombre": "Filosofía",
+    "bloque": "letras",
+    "color": "#D97706",
+    "seccion": "conocimientos",
+    "orden": 15
+  },
+  {
+    "id": "fis",
+    "nombre": "Física",
+    "bloque": "ciencias",
+    "color": "#0E9F6E",
+    "seccion": "conocimientos",
+    "orden": 16
+  },
+  {
+    "id": "quim",
+    "nombre": "Química",
+    "bloque": "ciencias",
+    "color": "#0E9F6E",
+    "seccion": "conocimientos",
+    "orden": 17
+  },
+  {
+    "id": "bio",
+    "nombre": "Biología",
+    "bloque": "ciencias",
+    "color": "#0E9F6E",
+    "seccion": "conocimientos",
+    "orden": 18
+  },
+  {
+    "id": "anat",
+    "nombre": "Anatomía",
+    "bloque": "ciencias",
+    "color": "#0E9F6E",
+    "seccion": "conocimientos",
+    "orden": 19
+  }
+]

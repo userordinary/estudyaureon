@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "medicina-humana",
+    "nombre": "Medicina Humana",
+    "area": "A",
+    "admMax": 1624.875,
+    "admMin": 1329.125,
+    "cepreFirst": [259.32, 337.075, 441.898, 714.35, 1752.643],
+    "cepreLast": [242.976, 315.95, 426.616, 640.8, 1626.342]
+  },
+  {
+    "id": "enfermeria",
+    "nombre": "Enfermería",
+    "area": "A",
+    "admMax": 1399.875,
+    "admMin": 1008.25,
+    "cepreFirst": [237.312, 228.125, 321.54, 477.05, 1264.027],
+    "cepreLast": [186.288, 159.175, 246.464, 344.15, 936.077]
+  },
+  {
+    "id": "obstetricia",
+    "nombre": "Obstetricia",
+    "area": "A",
+    "admMax": 1281.75,
+    "admMin": 978,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "odontologia",
+    "nombre": "Odontología",
+    "area": "A",
+    "admMax": 1408.5,
+    "admMin": 1125.875,
+    "cepreFirst": [203.472, 250.6, 349.36, 554, 1357.432],
+    "cepreLast": [202.128, 203, 252.592, 454, 1111.72]
+  },
+  {
+    "id": "farmacia-y-bioquimica",
+    "nombre": "Farmacia y Bioquímica",
+    "area": "A",
+    "admMax": 1396.5,
+    "admMin": 1060,
+    "cepreFirst": [224.136, 270.15, 341.54, 588.75, 1424.576],
+    "cepreLast": [163.776, 205.65, 273.156, 419.75, 1062.332]
+  },
+  {
+    "id": "ciencias-de-los-alimentos",
+    "nombre": "Ciencias de los Alimentos",
+    "area": "A",
+    "admMax": 984.25,
+    "admMin": 733.25,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "toxicologia",
+    "nombre": "Toxicología",
+    "area": "A",
+    "admMax": 1232.625,
+    "admMin": 730.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "medicina-veterinaria",
+    "nombre": "Medicina Veterinaria",
+    "area": "A",
+    "admMax": 1443.875,
+    "admMin": 1106.25,
+    "cepreFirst": [217.968, 252.8, 379.078, 498.3, 1348.146],
+    "cepreLast": [205.632, 252.125, 288.72, 536.45, 1282.927]
+  },
+  {
+    "id": "psicologia",
+    "nombre": "Psicología",
+    "area": "A",
+    "admMax": 1502.125,
+    "admMin": 1094.625,
+    "cepreFirst": [205.128, 244.125, 326.258, 528, 1303.511],
+    "cepreLast": [198.624, 209.875, 246.464, 435.05, 1090.013]
+  },
+  {
+    "id": "psicologia-chilca",
+    "nombre": "Psicología (Chilca)",
+    "area": "A",
+    "admMax": 964.875,
+    "admMin": 576.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "psicologia-organizacional-y-de-la-gestion-humana",
+    "nombre": "Psicología Organizacional y de la Gestión Humana",
+    "area": "A",
+    "admMax": 1303.375,
+    "admMin": 1000.25,
+    "cepreFirst": [183.12, 261.25, 274.284, 455.1, 1173.754],
+    "cepreLast": [171.288, 171.225, 235.13, 387.45, 965.093]
+  },
+  {
+    "id": "nutricion",
+    "nombre": "Nutrición",
+    "area": "A",
+    "admMax": 1333.125,
+    "admMin": 939.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "tecnologia-medica-laboratorio-clinico-y-anatomia-patologica",
+    "nombre": "Tecnología Médica: Laboratorio Clínico y Anatomía Patológica",
+    "area": "A",
+    "admMax": 1407.75,
+    "admMin": 1041.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "tecnologia-medica-terapia-fisica-y-rehabilitacion",
+    "nombre": "Tecnología Médica: Terapia Física y Rehabilitación",
+    "area": "A",
+    "admMax": 1189.5,
+    "admMin": 952,
+    "cepreFirst": [205.8, 267.725, 307.104, 510.35, 1290.979],
+    "cepreLast": [146.28, 169.425, 257.028, 392.8, 965.533]
+  },
+  {
+    "id": "tecnologia-medica-radiologia",
+    "nombre": "Tecnología Médica: Radiología",
+    "area": "A",
+    "admMax": 1297.125,
+    "admMin": 971.625,
+    "cepreFirst": [173.28, 171.85, 251.746, 420.2, 1017.076],
+    "cepreLast": [163.776, 192.975, 257.028, 359, 972.779]
+  },
+  {
+    "id": "tecnologia-medica-terapia-ocupacional",
+    "nombre": "Tecnología Médica: Terapia Ocupacional",
+    "area": "A",
+    "admMax": 1132.625,
+    "admMin": 894.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ciencias-biologicas",
+    "nombre": "Ciencias Biológicas",
+    "area": "B",
+    "admMax": 1277.75,
+    "admMin": 964.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "genetica-y-biotecnologia",
+    "nombre": "Genética y Biotecnología",
+    "area": "B",
+    "admMax": 1356.5,
+    "admMin": 1058.5,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "microbiologia-y-parasitologia",
+    "nombre": "Microbiología y Parasitología",
+    "area": "B",
+    "admMax": 1257.125,
+    "admMin": 969.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "quimica",
+    "nombre": "Química",
+    "area": "B",
+    "admMax": 1216.625,
+    "admMin": 561.375,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "matematica",
+    "nombre": "Matemática",
+    "area": "B",
+    "admMax": 1537.5,
+    "admMin": 152,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "estadistica",
+    "nombre": "Estadística",
+    "area": "B",
+    "admMax": 1446.75,
+    "admMin": 396.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "investigacion-operativa",
+    "nombre": "Investigación Operativa",
+    "area": "B",
+    "admMax": 1145.125,
+    "admMin": 467.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "investigacion-operativa-chilca",
+    "nombre": "Investigación Operativa (Chilca)",
+    "area": "B",
+    "admMax": 1029.875,
+    "admMin": 436.5,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "fisica",
+    "nombre": "Física",
+    "area": "B",
+    "admMax": 1372.25,
+    "admMin": 503.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "geofisica",
+    "nombre": "Geofísica",
+    "area": "B",
+    "admMax": 1081.875,
+    "admMin": 497.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "computacion-cientifica",
+    "nombre": "Computación Científica",
+    "area": "B",
+    "admMax": 1054.5,
+    "admMin": 576,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-biomedica",
+    "nombre": "Ingeniería Biomédica",
+    "area": "C",
+    "admMax": 1717.375,
+    "admMin": 1310.25,
+    "cepreFirst": [220.8, 264.8, 294.002, 602.45, 1382.052],
+    "cepreLast": [205.296, 247.9, 304.848, 543.3, 1301.344]
+  },
+  {
+    "id": "ingenieria-de-sistemas",
+    "nombre": "Ingeniería de Sistemas",
+    "area": "C",
+    "admMax": 1557.5,
+    "admMin": 1268,
+    "cepreFirst": [237.48, 325.525, 402.462, 566.5, 1531.967],
+    "cepreLast": [220.8, 256.35, 320.412, 575.5, 1373.062]
+  },
+  {
+    "id": "ingenieria-de-software",
+    "nombre": "Ingeniería de Software",
+    "area": "C",
+    "admMax": 1502.125,
+    "admMin": 1177.75,
+    "cepreFirst": [220.8, 231, 341.54, 548.55, 1341.89],
+    "cepreLast": [211.296, 235.45, 289.284, 530.25, 1266.28]
+  },
+  {
+    "id": "ciencia-de-la-computacion",
+    "nombre": "Ciencia de la Computación",
+    "area": "C",
+    "admMax": 1510.125,
+    "admMin": 1018.5,
+    "cepreFirst": [193.296, 229.7, 247.874, 447.55, 1118.42],
+    "cepreLast": [154.272, 164.075, 196.926, 375.9, 893.173]
+  },
+  {
+    "id": "ingenieria-de-inteligencia-artificial",
+    "nombre": "Ingeniería de Inteligencia Artificial",
+    "area": "C",
+    "admMax": 1465,
+    "admMin": 1131,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "arquitectura-y-urbanismo",
+    "nombre": "Arquitectura y Urbanismo",
+    "area": "C",
+    "admMax": 1565.5,
+    "admMin": 1187.5,
+    "cepreFirst": [212.808, 253.925, 312.386, 596.7, 1375.819],
+    "cepreLast": [204.96, 230.9, 280.848, 501.95, 1236.658]
+  },
+  {
+    "id": "ingenieria-civil",
+    "nombre": "Ingeniería Civil",
+    "area": "C",
+    "admMax": 1521.5,
+    "admMin": 1269.75,
+    "cepreFirst": [242.976, 269.025, 352.104, 567.05, 1431.155],
+    "cepreLast": [199.8, 222.15, 313.796, 539.35, 1275.096]
+  },
+  {
+    "id": "ingenieria-industrial",
+    "nombre": "Ingeniería Industrial",
+    "area": "C",
+    "admMax": 1613.375,
+    "admMin": 1164.125,
+    "cepreFirst": [230.808, 262.6, 357.668, 629.4, 1480.476],
+    "cepreLast": [189.12, 237.025, 320.412, 478.2, 1224.757]
+  },
+  {
+    "id": "ingenieria-industrial-chilca",
+    "nombre": "Ingeniería Industrial (Chilca)",
+    "area": "C",
+    "admMax": 1100.75,
+    "admMin": 601.375,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-mecatronica",
+    "nombre": "Ingeniería Mecatrónica",
+    "area": "C",
+    "admMax": 1434.75,
+    "admMin": 1125.75,
+    "cepreFirst": [199.464, 226.15, 316.258, 476.1, 1217.972],
+    "cepreLast": [173.472, 198.6, 288.232, 425.55, 1085.854]
+  },
+  {
+    "id": "ingenieria-ambiental",
+    "nombre": "Ingeniería Ambiental",
+    "area": "C",
+    "admMax": 1434.125,
+    "admMin": 1126,
+    "cepreFirst": [189.12, 218.325, 294.002, 504.25, 1205.697],
+    "cepreLast": [182.784, 188.75, 247.028, 514.75, 1133.312]
+  },
+  {
+    "id": "ingenieria-electronica",
+    "nombre": "Ingeniería Electrónica",
+    "area": "C",
+    "admMax": 1407.25,
+    "admMin": 1065.875,
+    "cepreFirst": [195.456, 243.675, 304.566, 497.85, 1241.547],
+    "cepreLast": [176.448, 189.2, 279.284, 437.3, 1082.232]
+  },
+  {
+    "id": "ingenieria-electrica",
+    "nombre": "Ingeniería Eléctrica",
+    "area": "C",
+    "admMax": 1341.125,
+    "admMin": 993.375,
+    "cepreFirst": [176.784, 185.425, 244.002, 429.1, 1035.311],
+    "cepreLast": [173.952, 179.45, 217.31, 348.9, 919.612]
+  },
+  {
+    "id": "ingenieria-electrica-chilca",
+    "nombre": "Ingeniería Eléctrica (Chilca)",
+    "area": "C",
+    "admMax": 951.125,
+    "admMin": 481,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-de-telecomunicaciones",
+    "nombre": "Ingeniería de Telecomunicaciones",
+    "area": "C",
+    "admMax": 1410.75,
+    "admMin": 1025.375,
+    "cepreFirst": [175.448, 150.725, 230.618, 404.9, 962.691],
+    "cepreLast": [132.096, 146.5, 188.362, 335.7, 802.658]
+  },
+  {
+    "id": "ingenieria-geologica",
+    "nombre": "Ingeniería Geológica",
+    "area": "C",
+    "admMax": 1401,
+    "admMin": 969.25,
+    "cepreFirst": [174.624, 184.75, 262.874, 418.15, 1040.398],
+    "cepreLast": [177.12, 135.175, 238.72, 402.8, 953.815]
+  },
+  {
+    "id": "ingenieria-geologica-oyon",
+    "nombre": "Ingeniería Geológica (Oyón)",
+    "area": "C",
+    "admMax": 1076.5,
+    "admMin": 509.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-geografica",
+    "nombre": "Ingeniería Geográfica",
+    "area": "C",
+    "admMax": 1392.5,
+    "admMin": 936.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-de-minas",
+    "nombre": "Ingeniería de Minas",
+    "area": "C",
+    "admMax": 1314.25,
+    "admMin": 1175.375,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-de-minas-oyon",
+    "nombre": "Ingeniería de Minas (Oyón)",
+    "area": "C",
+    "admMax": 1068.75,
+    "admMin": 306.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-metalurgica",
+    "nombre": "Ingeniería Metalúrgica",
+    "area": "C",
+    "admMax": 1389.625,
+    "admMin": 877.5,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-quimica",
+    "nombre": "Ingeniería Química",
+    "area": "C",
+    "admMax": 1423.875,
+    "admMin": 973.375,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-agroindustrial",
+    "nombre": "Ingeniería Agroindustrial",
+    "area": "C",
+    "admMax": 1329.125,
+    "admMin": 898.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-mecanica-de-fluidos",
+    "nombre": "Ingeniería Mecánica de Fluidos",
+    "area": "C",
+    "admMax": 1214.125,
+    "admMin": 723.875,
+    "cepreFirst": [177.456, 172.3, 210.054, 342.65, 902.46],
+    "cepreLast": [126.76, 91.575, 72.158, 151.85, 441.343]
+  },
+  {
+    "id": "ingenieria-nuclear",
+    "nombre": "Ingeniería Nuclear",
+    "area": "C",
+    "admMax": 1237.75,
+    "admMin": 760.875,
+    "cepreFirst": [189.288, 243.9, 294.002, 435.05, 1162.24],
+    "cepreLast": [147.936, 142.275, 183.08, 357.4, 830.691]
+  },
+  {
+    "id": "ingenieria-de-seguridad-y-salud-en-el-trabajo",
+    "nombre": "Ingeniería de Seguridad y Salud en el Trabajo",
+    "area": "C",
+    "admMax": 1252.625,
+    "admMin": 902.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-del-agua-y-tecnologias-de-tratamiento",
+    "nombre": "Ingeniería del Agua y Tecnologías de Tratamiento",
+    "area": "C",
+    "admMax": 1083,
+    "admMin": 651.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-textil-y-confecciones",
+    "nombre": "Ingeniería Textil y Confecciones",
+    "area": "C",
+    "admMax": 1211.5,
+    "admMin": 826,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-logistica-y-cadena-de-suministro-digital",
+    "nombre": "Ingeniería Logística y Cadena de Suministro Digital",
+    "area": "C",
+    "admMax": 1337.125,
+    "admMin": 1004.25,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ingenieria-de-transportes-y-sistemas-ferroviarios",
+    "nombre": "Ingeniería de Transportes y Sistemas Ferroviarios",
+    "area": "C",
+    "admMax": 1275.375,
+    "admMin": 912.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion",
+    "nombre": "Administración",
+    "area": "D",
+    "admMax": 1380.125,
+    "admMin": 999.125,
+    "cepreFirst": [220.968, 215, 304.848, 516.35, 1257.166],
+    "cepreLast": [157.464, 151.675, 228.514, 461.6, 999.253]
+  },
+  {
+    "id": "administracion-san-juan-de-lurigancho",
+    "nombre": "Administración (San Juan de Lurigancho)",
+    "area": "D",
+    "admMax": 1184,
+    "admMin": 710.5,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-huaral",
+    "nombre": "Administración (Huaral)",
+    "area": "D",
+    "admMax": 1136.125,
+    "admMin": 427.5,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-chilca",
+    "nombre": "Administración (Chilca)",
+    "area": "D",
+    "admMax": 1011.625,
+    "admMin": 483.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-villa-rica",
+    "nombre": "Administración (Villa Rica)",
+    "area": "D",
+    "admMax": 876.25,
+    "admMin": 529.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-de-negocios-internacionales",
+    "nombre": "Administración de Negocios Internacionales",
+    "area": "D",
+    "admMax": 1469,
+    "admMin": 1076.125,
+    "cepreFirst": [196.296, 242.375, 324.642, 538.4, 1301.713],
+    "cepreLast": [174.12, 179.675, 276.822, 520.4, 1151.017]
+  },
+  {
+    "id": "administracion-de-negocios-internacionales-san-juan-de-lurigancho",
+    "nombre": "Administración de Negocios Internacionales (San Juan de Lurigancho)",
+    "area": "D",
+    "admMax": 1125.875,
+    "admMin": 780.25,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-de-negocios-internacionales-huaral",
+    "nombre": "Administración de Negocios Internacionales (Huaral)",
+    "area": "D",
+    "admMax": 1046.5,
+    "admMin": 662.25,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-de-turismo",
+    "nombre": "Administración de Turismo",
+    "area": "D",
+    "admMax": 1280.375,
+    "admMin": 758,
+    "cepreFirst": [153.96, 184.8, 190.13, 338.5, 867.39],
+    "cepreLast": [137.136, 173.25, 174.284, 320.9, 805.57]
+  },
+  {
+    "id": "administracion-de-turismo-san-juan-de-lurigancho",
+    "nombre": "Administración de Turismo (San Juan de Lurigancho)",
+    "area": "D",
+    "admMax": 996.25,
+    "admMin": 514,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-maritima-y-portuaria",
+    "nombre": "Administración Marítima y Portuaria",
+    "area": "D",
+    "admMax": 1227.5,
+    "admMin": 1025.375,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-maritima-y-portuaria-chancay",
+    "nombre": "Administración Marítima y Portuaria (Chancay)",
+    "area": "D",
+    "admMax": 999.125,
+    "admMin": 566.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "administracion-de-la-gastronomia",
+    "nombre": "Administración de la Gastronomía",
+    "area": "D",
+    "admMax": 1325.125,
+    "admMin": 988.25,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "marketing",
+    "nombre": "Marketing",
+    "area": "D",
+    "admMax": 1309.125,
+    "admMin": 1055.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "contabilidad",
+    "nombre": "Contabilidad",
+    "area": "D",
+    "admMax": 1359.375,
+    "admMin": 876.375,
+    "cepreFirst": [167.28, 192.975, 252.028, 419.75, 1032.033],
+    "cepreLast": [165.456, 166.1, 229.002, 307.8, 868.358]
+  },
+  {
+    "id": "contabilidad-san-juan-de-lurigancho",
+    "nombre": "Contabilidad (San Juan de Lurigancho)",
+    "area": "D",
+    "admMax": 1049.375,
+    "admMin": 853.5,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "contabilidad-chilca",
+    "nombre": "Contabilidad (Chilca)",
+    "area": "D",
+    "admMax": 856.25,
+    "admMin": 403,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "contabilidad-villa-rica",
+    "nombre": "Contabilidad (Villa Rica)",
+    "area": "D",
+    "admMax": 856.5,
+    "admMin": 238.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "contabilidad-oyon",
+    "nombre": "Contabilidad (Oyón)",
+    "area": "D",
+    "admMax": 818.625,
+    "admMin": 383.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "contabilidad-huaral",
+    "nombre": "Contabilidad (Huaral)",
+    "area": "D",
+    "admMax": 738.75,
+    "admMin": 404.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "gestion-tributaria",
+    "nombre": "Gestión Tributaria",
+    "area": "D",
+    "admMax": 1278.875,
+    "admMin": 787.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "gestion-tributaria-san-juan-de-lurigancho",
+    "nombre": "Gestión Tributaria (San Juan de Lurigancho)",
+    "area": "D",
+    "admMax": 1046.5,
+    "admMin": 762.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "auditoria-empresarial-y-del-sector-publico",
+    "nombre": "Auditoría Empresarial y del Sector Público",
+    "area": "D",
+    "admMax": 1320,
+    "admMin": 826.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "auditoria-empresarial-y-del-sector-publico-san-juan-de-lurigancho",
+    "nombre": "Auditoría Empresarial y del Sector Público (San Juan de Lurigancho)",
+    "area": "D",
+    "admMax": 1169.25,
+    "admMin": 773,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "presupuesto-y-finanzas-publicas",
+    "nombre": "Presupuesto y Finanzas Públicas",
+    "area": "D",
+    "admMax": 1225,
+    "admMin": 779.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "presupuesto-y-finanzas-publicas-san-juan-de-lurigancho",
+    "nombre": "Presupuesto y Finanzas Públicas (San Juan de Lurigancho)",
+    "area": "D",
+    "admMax": 1019.5,
+    "admMin": 638.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "criminalistica-financiera-forense",
+    "nombre": "Criminalística Financiera Forense",
+    "area": "D",
+    "admMax": 1132.125,
+    "admMin": 854.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "economia",
+    "nombre": "Economía",
+    "area": "D",
+    "admMax": 1545.5,
+    "admMin": 1148.125,
+    "cepreFirst": [220.8, 194.775, 330.976, 570.7, 1317.251],
+    "cepreLast": [189.12, 218.325, 262.874, 410.6, 1080.919]
+  },
+  {
+    "id": "economia-internacional",
+    "nombre": "Economía Internacional",
+    "area": "D",
+    "admMax": 1405.625,
+    "admMin": 1009.375,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "economia-publica",
+    "nombre": "Economía Pública",
+    "area": "D",
+    "admMax": 1356.375,
+    "admMin": 900.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "derecho",
+    "nombre": "Derecho",
+    "area": "E",
+    "admMax": 1638,
+    "admMin": 1186.375,
+    "cepreFirst": [220.8, 285.925, 341.822, 575.5, 1424.047],
+    "cepreLast": [209.64, 236.575, 322.386, 491.65, 1260.251]
+  },
+  {
+    "id": "derecho-chilca",
+    "nombre": "Derecho (Chilca)",
+    "area": "E",
+    "admMax": 1210.25,
+    "admMin": 724.5,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "derecho-villa-rica",
+    "nombre": "Derecho (Villa Rica)",
+    "area": "E",
+    "admMax": 1088.125,
+    "admMin": 587.375,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "ciencia-politica",
+    "nombre": "Ciencia Política",
+    "area": "E",
+    "admMax": 1330.125,
+    "admMin": 1070.375,
+    "cepreFirst": [201.792, 206.775, 330.976, 509.5, 1249.043],
+    "cepreLast": [168.96, 180.8, 271.258, 451.9, 1072.918]
+  },
+  {
+    "id": "lenguas-traduccion-e-interpretacion",
+    "nombre": "Lenguas, Traducción e Interpretación",
+    "area": "E",
+    "admMax": 1502.5,
+    "admMin": 1041.375,
+    "cepreFirst": [220.8, 235.225, 299.284, 456.25, 1211.558],
+    "cepreLast": [171.12, 176.3, 230.618, 374.3, 952.338]
+  },
+  {
+    "id": "comunicacion-social",
+    "nombre": "Comunicación Social",
+    "area": "E",
+    "admMax": 1325.125,
+    "admMin": 1099,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "literatura",
+    "nombre": "Literatura",
+    "area": "E",
+    "admMax": 1244.625,
+    "admMin": 978,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "filosofia",
+    "nombre": "Filosofía",
+    "area": "E",
+    "admMax": 1177.25,
+    "admMin": 762.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "linguistica",
+    "nombre": "Lingüística",
+    "area": "E",
+    "admMax": 1233.75,
+    "admMin": 935.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "bibliotecologia-y-ciencias-de-la-informacion",
+    "nombre": "Bibliotecología y Ciencias de la Información",
+    "area": "E",
+    "admMax": 1143.5,
+    "admMin": 841.5,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "arte",
+    "nombre": "Arte",
+    "area": "E",
+    "admMax": 1104.75,
+    "admMin": 700.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "danza",
+    "nombre": "Danza",
+    "area": "E",
+    "admMax": 1227.75,
+    "admMin": 937.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "conservacion-y-restauracion",
+    "nombre": "Conservación y Restauración",
+    "area": "E",
+    "admMax": 1075.625,
+    "admMin": 697.625,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "educacion-inicial",
+    "nombre": "Educación Inicial",
+    "area": "E",
+    "admMax": 1108.125,
+    "admMin": 924.875,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "educacion-primaria",
+    "nombre": "Educación Primaria",
+    "area": "E",
+    "admMax": 1267.375,
+    "admMin": 981.75,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "educacion-secundaria",
+    "nombre": "Educación Secundaria",
+    "area": "E",
+    "admMax": 1371.375,
+    "admMin": 970,
+    "cepreFirst": [192.288, 214.325, 268.438, 487.8, 1162.851],
+    "cepreLast": [152.112, 176.525, 230.9, 393.25, 952.787]
+  },
+  {
+    "id": "educacion-fisica",
+    "nombre": "Educación Física",
+    "area": "E",
+    "admMax": 1248.171,
+    "admMin": 896.262,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "educacion-fisica-oyon",
+    "nombre": "Educación Física (Oyón)",
+    "area": "E",
+    "admMax": 894.501,
+    "admMin": 632.037,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "historia",
+    "nombre": "Historia",
+    "area": "E",
+    "admMax": 1237.75,
+    "admMin": 1008.25,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "arqueologia",
+    "nombre": "Arqueología",
+    "area": "E",
+    "admMax": 1227.5,
+    "admMin": 826.125,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "antropologia",
+    "nombre": "Antropología",
+    "area": "E",
+    "admMax": 1133.25,
+    "admMin": 763.25,
+    "cepreFirst": null,
+    "cepreLast": null
+  },
+  {
+    "id": "sociologia",
+    "nombre": "Sociología",
+    "area": "E",
+    "admMax": 1265.75,
+    "admMin": 996.75,
+    "cepreFirst": [167.112, 176.075, 241.182, 374.3, 958.669],
+    "cepreLast": [122.28, 124.075, 179.848, 355.95, 782.153]
+  },
+  {
+    "id": "trabajo-social",
+    "nombre": "Trabajo Social",
+    "area": "E",
+    "admMax": 1219.5,
+    "admMin": 928.875,
+    "cepreFirst": [173.784, 197.425, 262.31, 451.95, 1085.469],
+    "cepreLast": [143.448, 128.975, 194.002, 365.05, 831.475]
+  },
+  {
+    "id": "geografia",
+    "nombre": "Geografía",
+    "area": "E",
+    "admMax": 1166.375,
+    "admMin": 441.25,
+    "cepreFirst": null,
+    "cepreLast": null
+  }
+]
